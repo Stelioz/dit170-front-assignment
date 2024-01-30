@@ -1,3 +1,8 @@
+
+![image](https://github.com/Stelioz/dit170-front-assignment/assets/87001167/c03a0783-5bfe-43f3-b48e-f7a4520efbee)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
