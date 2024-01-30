@@ -1,5 +1,6 @@
 
-![image](https://github.com/Stelioz/dit170-front-assignment/assets/87001167/c03a0783-5bfe-43f3-b48e-f7a4520efbee)
+![image](https://github.com/Stelioz/dit170-front-assignment/assets/87001167/a4a58216-4fa2-488d-a7c0-5e96a516f0cb)
+
 
 
 
