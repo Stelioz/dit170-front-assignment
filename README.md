@@ -1,7 +1,12 @@
-
+# Project Managenet
 ![image](https://github.com/Stelioz/dit170-front-assignment/assets/87001167/a4a58216-4fa2-488d-a7c0-5e96a516f0cb)
 
+## Frondend Assignment 2023-2024 for "Full Web Stack Development" lesson at MSc HUA/DIT
 
+### Installation
+1) Clone this repository to your local machine.
+2) In the project directory, you can run: `npm install`
+3) In the project directory, you can run: `npm install @mui/material @emotion/react @emotion/styled`
 
 
 # Getting Started with Create React App
